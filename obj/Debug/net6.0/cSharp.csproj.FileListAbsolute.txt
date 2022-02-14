@@ -1,0 +1,15 @@
+/Users/taylorberry/source/codeworks/cSharp/bin/Debug/net6.0/cSharp
+/Users/taylorberry/source/codeworks/cSharp/bin/Debug/net6.0/cSharp.deps.json
+/Users/taylorberry/source/codeworks/cSharp/bin/Debug/net6.0/cSharp.runtimeconfig.json
+/Users/taylorberry/source/codeworks/cSharp/bin/Debug/net6.0/cSharp.dll
+/Users/taylorberry/source/codeworks/cSharp/bin/Debug/net6.0/ref/cSharp.dll
+/Users/taylorberry/source/codeworks/cSharp/bin/Debug/net6.0/cSharp.pdb
+/Users/taylorberry/source/codeworks/cSharp/obj/Debug/net6.0/cSharp.csproj.AssemblyReference.cache
+/Users/taylorberry/source/codeworks/cSharp/obj/Debug/net6.0/cSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taylorberry/source/codeworks/cSharp/obj/Debug/net6.0/cSharp.AssemblyInfoInputs.cache
+/Users/taylorberry/source/codeworks/cSharp/obj/Debug/net6.0/cSharp.AssemblyInfo.cs
+/Users/taylorberry/source/codeworks/cSharp/obj/Debug/net6.0/cSharp.csproj.CoreCompileInputs.cache
+/Users/taylorberry/source/codeworks/cSharp/obj/Debug/net6.0/cSharp.dll
+/Users/taylorberry/source/codeworks/cSharp/obj/Debug/net6.0/ref/cSharp.dll
+/Users/taylorberry/source/codeworks/cSharp/obj/Debug/net6.0/cSharp.pdb
+/Users/taylorberry/source/codeworks/cSharp/obj/Debug/net6.0/cSharp.genruntimeconfig.cache
